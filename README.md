@@ -4,7 +4,7 @@
 <h2 align="center">「 HENLO, I'M RHAYSSA 」</h2>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1am0wOTE1N29uc2l3YnY0aGVuM3Npc2dxN3lldWY5aDFqN2x5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPzuDa62ovAI/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k1am0wOTE1N29uc2l3YnY0aGVuM3Npc2dxN3lldWY5aDFqN2x5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPzuDa62ovAI/giphy.gif" width=""/>
 </div>
 
 ###  𓍯𓂃 I’m currently learning Flutter and BLoC  
