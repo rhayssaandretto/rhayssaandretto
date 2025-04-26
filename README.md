@@ -15,7 +15,7 @@
 
 ```yaml
 name: Rhayssa Andretto
-located_in: Floating between meaning and nothingness
+located_in: floating somewhere between the world and the abyss
 current_job: Back-End Developer
 education:
   [
