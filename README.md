@@ -9,4 +9,39 @@
 
 ###  𓍯𓂃 I’m currently learning Flutter and BLoC  
 
-### *<div align="right"> ・・ funnie thingz: I love cats, coffee and kaomojis ₍^. .^₎⟆</div>*  
+#### *<div align="right"> ・・ funnie thingz: I love cats, coffee and kaomojis ₍^. .^₎⟆</div>*  
+
+<h2 align="center"> ✧･ﾟ: *✧･ﾟ:* MORE ABOUT ME... *:･ﾟ✧*:･ﾟ✧ </h2>
+
+```yaml
+name: Rhayssa Andretto
+located_in: Floating between meaning and nothingness
+current_job: Back-End Developer
+education:
+  [
+    "Bachelor's in Software Engineering",
+  ]
+
+fields_of_interests:
+  [
+    "Mobile Development",
+    "Web Development"
+  ]
+
+technical_background:
+  [
+    "Trainee - Back-End Developer"
+    "Intern - Back-End Developer",
+  ]
+
+currently_learning:
+  - "Flutter"
+  - "Dart"
+  - "BLoC"
+  - "Firebase"
+  - "Clean Arch"
+
+goals_2025:
+  - "Develop a more interactive and updated portfolio showcasing my skills and projects"
+  - "Improve UI/UX design skills using Figma and Adobe XD"
+```
